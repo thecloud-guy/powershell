@@ -1,5 +1,5 @@
 ﻿# Login to Azure
-#Login-AzureRmAccount
+Login-AzureRmAccount
 
 # Get the resource group
 $ResourceGroup = Get-AzureRmResourceGroup -ResourceGroupName "TheCloudGuy"
